@@ -1,6 +1,6 @@
 # 💫 About Me:
 Hi there! 👋 I'm Chandana<br><br>🚀 **Aspiring Engineer | Passionate about Data & Algorithms**  <br><br>I'm currently diving deep into **Machine Learning & Artificial Intelligence** and working on exciting projects in the field. <br>My goal is to become an expert in AI, constantly learning and implementing new techniques.
-
+<img src="https://leetcode-badge-showcase.vercel.app/api?username=Chandanahk&animated=true" alt="LeetCode Badges" />
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chandanahk) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:chandanahk6804@gmail.com) 
